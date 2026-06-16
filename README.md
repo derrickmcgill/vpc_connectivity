@@ -26,9 +26,16 @@ Designed and deployed a custom AWS VPC using Terraform with public and private s
 - terraform apply
 - terraform destroy
 
-## Validation Testing
+### Internet Connectivity Verification
 
-[Insert screenshots]
+The deployed EC2 instance successfully accessed external internet resources, confirming proper configuration of the VPC, public subnet, route table, Internet Gateway, and security group.
+- curl ifconfig.me
+-  ping google.com
+
+**Result:** The instance returned its public IP address, confirming outbound internet connectivity.
+
+
+
 
 ## Lessons Learned
 
