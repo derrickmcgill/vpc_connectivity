@@ -19,6 +19,12 @@ Designed and deployed a custom AWS VPC using Terraform with public and private s
 - Internet Gateway
 - Terraform
 - GitHub
+## Terraform Deployment
+terraform init
+terraform validate
+terraform plan
+terraform apply
+terraform destroy
 
 ## Validation Testing
 
