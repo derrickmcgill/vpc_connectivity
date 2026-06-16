@@ -1,0 +1,12 @@
+AWS Networking Fundamentals
+This project helped me understand the core components of AWS networking, including VPCs, subnets, route tables, Internet Gateways, and Security Groups.
+Infrastructure as Code
+I learned how to use Terraform to automate infrastructure deployment instead of manually creating resources through the AWS Management Console. This makes deployments more consistent and repeatable.
+Route Table Configuration
+I gained practical experience configuring route tables and understanding how routing determines connectivity between AWS resources and the Internet.
+Security Groups
+This project reinforced the importance of controlling inbound and outbound traffic using Security Groups and applying the principle of least privilege.
+Git and GitHub
+I learned how to manage infrastructure code using Git and GitHub, including commits, repository management, .gitignore configuration, and troubleshooting common source control issues.
+Documentation and Architecture Design
+Creating documentation and architecture diagrams helped me better communicate the purpose and design of the environment.
